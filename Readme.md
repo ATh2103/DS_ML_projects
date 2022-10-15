@@ -11,6 +11,7 @@
 4) Conversion of image to pencil sketch
 
 5) decision tree classification of the dataset
+    => https://github.com/ATh2103/DS_ML_projects/blob/dd543e3d9987ac3e5b857c71ab2b2589de52ca14/ML%20projects/Decision_tree.ipynb
 
 6) understanding handwritten digits (MNIST dataset)
 
